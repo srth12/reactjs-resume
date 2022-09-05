@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactjs-resume/static/css/main.6f86a941.css",
+    "main.js": "/reactjs-resume/static/js/main.508673bd.js",
+    "static/js/787.69233e15.chunk.js": "/reactjs-resume/static/js/787.69233e15.chunk.js",
+    "static/media/Poppins-Thin.ttf": "/reactjs-resume/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/reactjs-resume/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/reactjs-resume/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/reactjs-resume/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/reactjs-resume/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/reactjs-resume/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/reactjs-resume/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/profile-photo.jpeg": "/reactjs-resume/static/media/profile-photo.75bdc71ba9a52c437bb6.jpeg",
+    "static/media/bg.jpg": "/reactjs-resume/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/reactjs-resume/index.html",
+    "main.6f86a941.css.map": "/reactjs-resume/static/css/main.6f86a941.css.map",
+    "main.508673bd.js.map": "/reactjs-resume/static/js/main.508673bd.js.map",
+    "787.69233e15.chunk.js.map": "/reactjs-resume/static/js/787.69233e15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f86a941.css",
+    "static/js/main.508673bd.js"
+  ]
+}
